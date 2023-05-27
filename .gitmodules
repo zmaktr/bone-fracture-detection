@@ -1,0 +1,3 @@
+[submodule "yolov7/onnxruntime"]
+	path = yolov7/onnxruntime
+	url = https://github.com/Microsoft/onnxruntime.git
